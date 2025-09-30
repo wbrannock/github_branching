@@ -6,3 +6,4 @@
 - Joseph Hudson (rck7ye)
 - Sam Kunitz-Levy (jhb7ek)
 - Aiden Rocha (atx2xs)
+- Will Novak (dcq8fz)
